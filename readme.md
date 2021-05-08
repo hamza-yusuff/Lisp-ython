@@ -14,15 +14,14 @@ For the transpiler, I architected algorithms, and deviced logic to initally pars
 
 I have built this project to essentially learn about interpreters, transpiler and the underlyings of the process involved. The reason for having a curiosity in this field comes from my inital struggle with functional progamming paradigm during my first term at University. As part of the introductory CS course, I had to learn Racket, and coming from an
 imperitive programming background, it was bit difficult for me to pick up at first. That's when I started digging into transpiling and interpreters.  
-Even though, this project is now fairly small, I plan to very soon integrate more functionality into the transpiler , and improve the existing interpretor.
+At this point, this project is fairly small, and I plan to very soon integrate more functionality into the transpiler , and improve the existing interpretor.
 
-- May 2021 - Currently, I am working on adding 'cond' transpilation into the transpiler![ex1]
+- May 2021 - Currently, I am working on adding 'cond' transpilation into the transpiler, 
  and the error handling of the interpreter.
 
 ## Usage
 
-The run.py contains a function called repl(), which upon invoking will initiate an interactive-read-eval-print loop. For the transpiler, you have to call the repl_translate()
-function in translate.py to intitate a similar interactive-read-eval-print loop.
+The run.py contains a function called repl(), which upon invoking will initiate an interactive-read-eval-print loop. For the transpiler, you have to call the repl_translate() function in translate.py to intitate a similar interactive-read-eval-print loop.
 
 ### Interpreter
 
