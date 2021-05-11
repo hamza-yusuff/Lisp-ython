@@ -1,4 +1,4 @@
-# Scheme-ython
+# Py-Scheme
 
 This project contains an implementation of a simple interpreter, and a transpiler written in python for Scheme and Racket respectively. The interpreter can deal with only a particular subset of Scheme, and supports user-defined procedures, lambda calculas, variable handling, conditional (if), primitive data structures (except strings), and all sorts of mathematical operations. Currently, it does a very minimalistic error handling, and does not support a good number of primitive procedures, and for the time being, the transpiler only facilitates the following
 
