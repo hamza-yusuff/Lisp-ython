@@ -37,7 +37,7 @@ The run.py contains a function called repl(), which upon invoking will initiate 
 
 ## Disclaimer
 
-This project is built entirely from an educational standpoint. It was done to know more about what goes under the hood during transpilation/interpreters/compilation, and to get a first hand experience of writing one.
+This project has been built entirely from an educational standpoint. It was done to know more about what goes under the hood during transpilation/interpreters/compilation, and to get a first hand experience of writing one.
 
 ## Author
 
